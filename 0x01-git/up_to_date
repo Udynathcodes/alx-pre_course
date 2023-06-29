@@ -1,1 +1,2 @@
-mkdir up_to_date
+$git add up_to_date
+$git pull
